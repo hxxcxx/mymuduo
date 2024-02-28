@@ -1,0 +1,15 @@
+*.swp
+bazel-*
+*.json
+muduo/base/tests/build
+muduo/.vscode
+*.txt
+*.cmake
+*.make
+*.dir
+*.ts
+*.marks
+Makefile
+examples/build
+examples/CMakeFiles
+muduo/base/CMakeFiles/cmake.check_cache
